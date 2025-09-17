@@ -22,7 +22,7 @@ https://github.com/machine1337/TelegramRAT/assets/82051128/e7d92865-c6be-4b88-84
   ![bo](https://github.com/machine1337/TelegramRAT/assets/82051128/575f8021-37f7-4ee8-886f-f3fd0acc2d3f)
 
 # HELP MENU:
-    HELP MENU: Coded By Machine1337
+    HELP MENU: 
     CMD Commands        | Execute cmd commands directly in bot
     cd ..               | Change the current directory
     cd foldername       | Change to current folder
@@ -41,7 +41,5 @@ https://github.com/machine1337/TelegramRAT/assets/82051128/e7d92865-c6be-4b88-84
     6. get url (Download file from URL)
     7. More features will be added
 
-# Author:
-    Coded By: Machine1337
-    Telgram group: https://t.me/machine1337
+
     
